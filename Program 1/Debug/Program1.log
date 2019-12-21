@@ -1,0 +1,4 @@
+﻿  cbcvigenere.cpp
+c:\users\zgorlock\coding\c++\visual studios workplace\cis3360\program1\cbcvigenere.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+c:\users\zgorlock\coding\c++\visual studios workplace\cis3360\program1\cbcvigenere.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+  Program1.vcxproj -> C:\Users\ZGorlock\Coding\C++\Visual Studios Workplace\CIS3360\Debug\Program1.exe
